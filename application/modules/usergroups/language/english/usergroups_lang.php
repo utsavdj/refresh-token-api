@@ -1,0 +1,28 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$lang['branch'] = 'Branches';
+$lang['username'] = 'Username';
+$lang['userid'] = 'User ID';
+$lang['email'] = 'Email';
+$lang['password'] = 'Password';
+$lang['repassword'] = 'Re-Password';
+$lang['status'] = 'Status';
+$lang['usergroup'] = 'User group';
+$lang['ownership'] = 'Ownership';
+$lang['access'] = 'Access';
+$lang['tasks'] = 'Tasks';
+$lang['this_record_has_been_saved'] = 'Usergroup has been saved successfully';
+$lang['this_record_not_saved'] = 'Usergroup could not be saved';
+$lang['this_record_has_been_deleted'] = 'Usergroup has been deleted successfully';
+$lang['this_record_not_deleted'] = 'Usergroup could not be deleted';
+$lang['this_record_has_been_updated'] = 'Usergroup has been updated successfully';
+$lang['this_record_not_updated'] = 'User has could not be updated';
+$lang['user_exists']='Usergroup Couldnot be delete user exist in this group';
+$lang['groupname'] = 'Group Name';
+$lang['groupcode'] = 'Group Code';
+$lang['group_type'] = 'Group Type';
+$lang['record_not_found']='User group not found';
+$lang['group_name']='Group Name';
+$lang['group_description']='Description';
+$lang['group_status']='Status';
+$lang['permission_denied']="Permission Denied";
